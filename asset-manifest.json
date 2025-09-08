@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Edustream/static/css/main.8f7922da.css",
+    "main.css": "/Edustream/static/css/main.c366130b.css",
     "main.js": "/Edustream/static/js/main.8db1e352.js",
     "index.html": "/Edustream/index.html",
-    "main.8f7922da.css.map": "/Edustream/static/css/main.8f7922da.css.map",
+    "main.c366130b.css.map": "/Edustream/static/css/main.c366130b.css.map",
     "main.8db1e352.js.map": "/Edustream/static/js/main.8db1e352.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f7922da.css",
+    "static/css/main.c366130b.css",
     "static/js/main.8db1e352.js"
   ]
 }
